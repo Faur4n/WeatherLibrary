@@ -1,0 +1,3 @@
+include ':GetWeather'
+include ':app'
+rootProject.name = "WeatherLibrary"

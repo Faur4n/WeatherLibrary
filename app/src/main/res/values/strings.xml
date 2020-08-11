@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WeatherLibrary</string>
+    <string name="temperature">Temp %.2f °\nHumidity %s \nWind Speed %.2f \nVisibility %.2f\nWind Direction %s</string>
+    <string name="enter_location">Enter location</string>
+    <string name="get_weather">Get Weather</string>
+</resources>
